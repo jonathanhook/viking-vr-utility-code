@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Start Viking VR</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hp_sensitivity">0.1</string>
+    <string name="sensitivity">0.1</string>
+    <string name="viking_package">com.uoy.viking</string>
+    <string name="initialize_time">2500</string>
+</resources>
